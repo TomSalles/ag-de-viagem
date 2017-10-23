@@ -1,0 +1,21 @@
+.animation-box {
+	margin-left: 0px;
+	position: relative;
+	padding-left: 50px;
+	width: auto;
+}
+
+.rodape {
+	position: relative;
+	bottom: 0;
+	left: 0%;
+	right: 0%;
+}
+
+.space{
+  padding-bottom: 50px;
+}
+
+.space-lg {
+	padding-bottom: 100px;
+}

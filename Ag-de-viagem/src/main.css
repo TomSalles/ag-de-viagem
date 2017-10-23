@@ -1,0 +1,25 @@
+.section-bgimg {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 160px;
+	padding-bottom: 160px;
+}
+
+.section-bgimg {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.background-fixed {
+	background-attachment: fixed;
+}
+
+.pad-top{
+	padding-top: 160px;
+}
+.pad-bottom{
+	padding-bottom: 160px;
+}
